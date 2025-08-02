@@ -4,3 +4,11 @@ body {
     background-color: #f9f9f9;
     color: #333;
 }
+
+header {
+    background-color: #222;
+    color: white;
+    padding: 1rem 0;
+    position: sticky;
+    top: 0;
+}
