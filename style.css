@@ -56,14 +56,14 @@ nav a {
 .btn {
     display: inline-block;
     padding: 0.5rem 1rem;
-    background-color: #222;
+    background-color: #181C14;
     color: white;
     border-radius: 5px;
     text-decoration: none;
 }
 
 .project-card {
-    background: #E2E2B6;
+    background: #E2DFD0;
     padding: 1rem;
     margin: 1rem 0;
     border-radius: 8px;
@@ -83,7 +83,7 @@ input, textarea, button {
 }
 
 button {
-    background-color: #222;
+    background-color: #181C14;
     color: white;
     border: none;
     cursor: pointer;
