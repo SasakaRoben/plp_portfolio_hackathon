@@ -1,12 +1,12 @@
 body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
-    background-color: #f9f9f9;
-    color: #333;
+    background-color: #ECDFCC;
+    color: #3C3D37;
 }
 
 header {
-    background-color: black;
+    background-color: #181C14;
     color: white;
     padding: 1rem 0;
     position: sticky;
@@ -63,7 +63,7 @@ nav a {
 }
 
 .project-card {
-    background: white;
+    background: #E2E2B6;
     padding: 1rem;
     margin: 1rem 0;
     border-radius: 8px;
@@ -94,7 +94,7 @@ button:hover {
 }
 
 footer {
-    background-color: black;
+    background-color:#181C14;
     color: white;
     text-align: center;
     padding: 1rem;
