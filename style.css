@@ -32,3 +32,9 @@ nav a {
     color: white;
     text-decoration: none;
 }
+
+.section {
+    padding: 2rem;
+    max-width: 1000px;
+    margin: auto;
+}
