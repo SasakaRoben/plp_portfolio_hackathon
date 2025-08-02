@@ -38,3 +38,17 @@ nav a {
     max-width: 1000px;
     margin: auto;
 }
+
+.skills-list {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    list-style: none;
+    padding: 0;
+}
+
+.skills-list li {
+    background-color: #ddd;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+}
